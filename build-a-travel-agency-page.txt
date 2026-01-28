@@ -1,0 +1,47 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta content="Travels to Go" property="og:title" />
+    <meta name="description" content="Best Travels to go with your Friends!">
+    <title>Travel Agency</title>
+  </head>
+   <body>
+    <h1>Bests Travels</h1>
+    <p>Japan</p>
+    <h2>Packages</h2>
+    <p>Diferrents Packages</p>
+    <ul>
+      <li>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a>
+      </li>
+      <li>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a>
+      </li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://www.freecodecamp.org/learn" alt="Example1">
+      </a>
+      <figcaption>Example 1</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://www.freecodecamp.org/learn" alt="Example2">
+      </a>
+      <figcaption>Example 2</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://www.freecodecamp.org/learn" alt="Example3">
+      </a>
+      <figcaption>Example 3</figcaption>
+    </figure>
+   </body>
+</html>
+
+** end of index.html **
+
