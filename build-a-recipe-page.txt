@@ -1,0 +1,42 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Classic Pancakes</title>
+  </head>
+  <body>
+    <h1>Classic Pancakes</h1>
+
+    <p>
+      These classic pancakes are fluffy, easy to make, and perfect for breakfast or brunch.
+      They can be served with syrup, fruits, or butter.
+    </p>
+
+    <h2>Ingredients</h2>
+    <ul>
+      <li>1 cup all-purpose flour</li>
+      <li>1 tablespoon sugar</li>
+      <li>1 teaspoon baking powder</li>
+      <li>1 cup milk</li>
+    </ul>
+
+    <h2>Instructions</h2>
+    <ol>
+      <li>Mix the dry ingredients in a bowl.</li>
+      <li>Add the milk and stir until smooth.</li>
+      <li>Heat a pan over medium heat.</li>
+      <li>Pour batter and cook until golden on both sides.</li>
+    </ol>
+
+    <img
+      src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg"
+      alt="A stack of fluffy pancakes served with syrup"
+    >
+  </body>
+</html>
+
+
+** end of index.html **
+
