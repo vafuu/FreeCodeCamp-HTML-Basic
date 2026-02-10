@@ -1,0 +1,66 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Book Catalog</title>
+</head>
+<body>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Author</th>
+      <th>Genre</th>
+      <th>Publication Year</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Open Source Handbook</td>
+      <td>John Doe</td>
+      <td>Technology</td>
+      <td>2021</td>
+    </tr>
+    <tr>
+      <td>Learn Linux</td>
+      <td>Jane Smith</td>
+      <td>Technology</td>
+      <td>2020</td>
+    </tr>
+    <tr>
+      <td>Regex for JavaScript</td>
+      <td>Alex Brown</td>
+      <td>Programming</td>
+      <td>2019</td>
+    </tr>
+    <tr>
+      <td>Python Code Examples</td>
+      <td>Emily White</td>
+      <td>Programming</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Web Development Basics</td>
+      <td>Michael Green</td>
+      <td>Web</td>
+      <td>2018</td>
+    </tr>
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <td colspan="4">Total Books: 5</td>
+    </tr>
+  </tfoot>
+</table>
+
+</body>
+</html>
+
+
+** end of index.html **
+

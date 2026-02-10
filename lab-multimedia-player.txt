@@ -1,0 +1,34 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Multimedia Player</title>
+</head>
+
+<body>
+<h1>Multimedia Player</h1>
+ <section>
+   <h2>Now Playing: Sailing Away</h2>
+   <audio controls aria-label="audio">
+   <source src="https://cdn.freecodecamp.org/curriculum/js-music-player/sailing-away.mp3" type="audio">
+ </section>
+
+ <section>
+   <h2>Hola</h2>
+   <video controls width="240"> 
+     <source src="https://cdn.freecodecamp.org/curriculum/labs/what-is-the-map-method-and-how-does-it-work.mp4" type="video">
+     <track kind="subtitlre" srclang="spain" label="hola"src="https://cdn.freecodecamp.org/curriculum/labs/what-is-the-map-method-and-how-does-it-work.vtt">
+ </section>
+ <section>
+   <h2>holas</h2>
+   <p>hola</p>
+  </section>
+</body>
+
+</html>
+
+** end of index.html **
+
